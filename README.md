@@ -1,2 +1,3 @@
-# core-news-aggregator-fiay
-A news aggregation service for modern development workflows
+# Core News Aggregator Fiay
+
+A news aggregation service for modern development workflows.
